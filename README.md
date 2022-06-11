@@ -5,7 +5,8 @@ My Name lawal adebola fawaz and am a softare engineer (the special kind 🤩)
 - 💬 Ask me about frontend development (javascript and React)
 
 ![Lawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sphade&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sphade)](https://github.com/sphade/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sphade&layout=compact&theme=radical)](https://github.com/sphade/github-readme-stats)
 <!--
 **sphade/sphade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
