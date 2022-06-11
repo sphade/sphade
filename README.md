@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+my name lawal adebola fawaz and am a softare engineer (the special kind 🤩)
+- 🔭 I’m currently working on React based Projects
+- 👯 I’m looking to collaborate on React Projects
+- 💬 Ask me about frontend development (javascript and React)
+- 📫 How to reach me: 
 <!--
 **sphade/sphade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
