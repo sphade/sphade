@@ -1,5 +1,5 @@
 ### Hi there 👋
-My Name lawal adebola fawaz and am a softare engineer (the special kind 🤩)
+My Name lawal adebola fawaz and am a softare engineer
 - 🔭 I’m currently working on React based Projects
 - 👯 I’m looking to collaborate on React Projects
 - 💬 Ask me about frontend development (javascript and React)
