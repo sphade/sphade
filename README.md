@@ -7,7 +7,7 @@ My Name lawal adebola fawaz and am a softare engineer
 ![Lawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sphade&show_icons=true&theme=radical)
 
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=sphade&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width='20%' />
+  <img src="https://activity-graph.herokuapp.com/graph?username=sphade&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width='50%' />
 
 <p >
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sphade&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=1c1917" alt="adophilus" align="center"/></p>
