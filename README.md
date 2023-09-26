@@ -1,8 +1,8 @@
 ### Hi there 👋
 My Name lawal adebola fawaz and am a softare engineer
-- 🔭 I’m currently working on React based Projects
-- 👯 I’m looking to collaborate on React Projects
-- 💬 Ask me about frontend development (javascript and React)
+- 🔭 I’m currently working on svelte based Projects
+- 👯 I’m looking to collaborate on svelte and react Projects
+- 💬 Ask me about frontend development (javascript,  and React)
 
 ![Lawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sphade&show_icons=true&theme=radical)
 
